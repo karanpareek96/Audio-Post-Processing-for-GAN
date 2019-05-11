@@ -1,4 +1,4 @@
-# Audio Post Processing Function
+# Audio Post Processing Function (Numpy Version)
 
 import numpy as np
 import librosa
